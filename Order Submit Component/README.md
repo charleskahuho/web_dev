@@ -1,6 +1,6 @@
 external styleseet included
 
-image attributes like height and wdth not specified because they were just 
+image attributes like height and width not specified because they were ok
 
 nested divs applied to achieve the link floating iin the left of the annual cost
 
